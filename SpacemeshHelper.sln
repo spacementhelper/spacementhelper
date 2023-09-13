@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpacemeshHelper", "SpacemeshHelper.csproj", "{0DAC7DF2-DBB9-4E60-8350-0DF7574C14AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAC7DF2-DBB9-4E60-8350-0DF7574C14AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAC7DF2-DBB9-4E60-8350-0DF7574C14AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAC7DF2-DBB9-4E60-8350-0DF7574C14AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAC7DF2-DBB9-4E60-8350-0DF7574C14AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F24C04F-6785-4F63-8560-6A6DFD0BE575}
+	EndGlobalSection
+EndGlobal
