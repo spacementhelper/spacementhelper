@@ -3,5 +3,4 @@
 <img width="947" alt="截屏2023-09-13 14 08 47" src="https://github.com/spacementhelper/spacementhelper/assets/144666955/a66ccd49-9ffd-475d-80cb-6075ad67211e">
 
 zip files：
-
-https://github.com/spacementhelper/spacementhelper/blob/main/SpacementHelperv0.0.2.zip
+https://github.com/spacementhelper/spacementhelper/blob/main/SpacementHelper_v0.0.2.zip
