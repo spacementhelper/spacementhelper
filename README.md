@@ -9,8 +9,7 @@ https://github.com/spacementhelper/spacementhelper/blob/ceb5dc147afc0006b7f67669
 
 
 中文
-
-https://github.com/spacementhelper/spacementhelper/blob/main/SpacemeshHelper_CN_v0.0.3.zip
+https://github.com/spacementhelper/spacementhelper/blob/ceb5dc147afc0006b7f67669b50fc9f5d84cb347/SpacemeshHelper_CN_V0.0.4.zip
 
 
 
