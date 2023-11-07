@@ -4,12 +4,8 @@
 
 zip files：                                                                                 
 
-EN
-https://github.com/spacementhelper/spacementhelper/blob/main/SpacemeshHelper_EN_V0.0.5.zip
 
-
-中文
-https://github.com/spacementhelper/spacementhelper/blob/main/SpacemeshHelper_CN_V0.0.5.zip
+https://github.com/spacementhelper/spacementhelper/blob/dba5b8814b40a3bc183194955cf691a1fc198e05/SpacemeshHelper__V0.0.6.zip
 
 
 
