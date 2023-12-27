@@ -3,7 +3,17 @@
 
 
 下载文件：              
-[SpacemeshHelper V0.0.6](https://github.com/spacementhelper/spacementhelper/raw/main/SpacemeshHelper_V0.0.7.zip)
+[SpacemeshHelper V0.0.8](https://github.com/spacementhelper/spacementhelper/raw/main/SpacemeshHelper_V0.0.8.zip)
+
+
+修复了P盘时配置文件出错Bug..如果你用旧版本P完后发现挂盘报错,请修改P盘目录内的postdata_metadata.json,
+参数改成
+"LabelsPerUnit": 4294967296,
+
+修复了多卡P盘时有可能出错需要手动单个停止后再启动的bug..
+
+添加了P盘和挂盘时目录下生成对应的.bat文件,如果你觉得本工具不好用,你可以用本工具生成好bat手动运行bat来P盘与挂盘..
+
 
 
 
